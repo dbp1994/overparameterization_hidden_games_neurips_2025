@@ -1,1 +1,4 @@
+## To be uploaded soon
+
+
 Code for demonstrating empirical validity of our results for Input Games (Theorem 3.5) from the NeurIPS 2025 paper _[Solving Neural Min-Max Games: The Role of Architecture, Initialization & Dynamics](https://openreview.net/forum?id=5xdbWUdM87&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions))_. Please see Appendix C for details regarding the experimental setup.
